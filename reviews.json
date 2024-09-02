@@ -1,0 +1,62 @@
+[
+    {
+        "professor": "Dr. Alice Smith",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Smith is an amazing professor! Her lectures are engaging, and she makes complex topics easy to understand."
+    },
+    {
+        "professor": "Dr. John Doe",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "Dr. Doe knows his material well, but sometimes moves too fast. Attending office hours helps a lot."
+    },
+    {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "The class is challenging, and Dr. Lee expects a lot. Her notes are good, but exams are tough."
+    },
+    {
+        "professor": "Dr. Mike Johnson",
+        "subject": "World History",
+        "stars": 2,
+        "review": "Lectures are a bit dry and monotonous. Not very interactive, but the reading material is interesting."
+    },
+    {
+        "professor": "Dr. Emily Brown",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Brown is passionate about literature. She encourages critical thinking, and the class discussions are great."
+    },
+    {
+        "professor": "Dr. Richard Davis",
+        "subject": "Physics I",
+        "stars": 1,
+        "review": "Dr. Davis is very knowledgeable, but he struggles to explain concepts clearly. Very difficult to follow."
+    },
+    {
+        "professor": "Dr. Anna Wilson",
+        "subject": "Introduction to Computer Science",
+        "stars": 5,
+        "review": "One of the best professors I've had! Dr. Wilson makes learning programming fun and accessible."
+    },
+    {
+        "professor": "Dr. Robert Taylor",
+        "subject": "Macroeconomics",
+        "stars": 3,
+        "review": "Dr. Taylor's lectures are informative, but the assignments are quite demanding. Needs better pacing."
+    },
+    {
+        "professor": "Dr. Jessica White",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. White is very insightful and connects theories to real-world situations. Her classes are engaging."
+    },
+    {
+        "professor": "Dr. David Thompson",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "The lectures are detailed, but Dr. Thompson doesn't seem very approachable. Not my favorite class."
+    }
+]
